@@ -1,0 +1,118 @@
+.footer {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 auto;
+    width: 100% !important;
+}
+
+.footer .py-5 {
+    margin-top: 40px !important;
+    background: #032541;
+}
+
+.footer-top {
+    align-items: center;
+    color: white;
+    margin: 0 auto !important;
+    padding-bottom: 20px !important;
+    max-width: 1350px !important;
+    width: 100% !important;
+}
+
+.footer-top h5 {
+    color: #FFF;
+    text-align: right;
+
+    /* h5/bold */
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%; /* 24px */
+}
+
+.footer-top a {
+    color: #FFF;
+    text-align: right;
+
+    /* body/regular */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 150%; /* 24px */
+    color: white !important;
+}
+
+.footer .py-5 {
+    padding-bottom: 0px !important;
+}
+
+.legacy {
+    height: 50px;
+    background-color: white;
+    align-items: center;
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.wrap-legacy {
+    max-width: 1350px !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+}
+
+.legacy-logo {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.rights {
+    color: #545454;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.wrap-legacy {
+    max-width: 1450px !important;
+}
+
+.legacy-list {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+.legacy-list li {
+    margin-right: 20px;
+}
+
+.traits {
+    display: flex;
+    align-items: center;
+}
+
+.col-sm-1 {
+    color: #000;
+
+/* body/regular */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+
+.api {
+    max-width: 150px !important;
+    width: 100% !important;
+}

@@ -1,0 +1,99 @@
+.actor-card {
+    background-color: #ffffff;
+    border-radius: 40px;
+    box-shadow: 0px 5px 30px #0000000d;
+    height: 88px;
+    width: 306px;
+  }
+  
+  .actor-card .moviecard {
+    align-items: flex-start;
+    display: flex;
+    position: relative;
+    width: 306px;
+  }
+  
+  .actor-card .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    padding: 12px 0px 12px 12px;
+    position: relative;
+  }
+  
+  .actor-card .image-4 {
+    border-radius: 60px !important;
+    height: 64px !important;
+    position: relative !important;
+    width: 64px !important;
+  }
+  
+  .actor-card .detail {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    padding: 12px 8px 12px 16px;
+    position: relative;
+  }
+  
+  .actor-card .title {
+    align-self: stretch;
+    color: #545454;
+    font-family: var(--h5-bold-font-family);
+    font-size: var(--h5-bold-font-size);
+    font-style: var(--h5-bold-font-style);
+    font-weight: var(--h5-bold-font-weight);
+    letter-spacing: var(--h5-bold-letter-spacing);
+    line-height: var(--h5-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .actor-card .seperator {
+    align-self: stretch;
+    height: 5px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .actor-card .genre {
+    align-self: stretch;
+    color: #818181;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: relative;
+  }
+  
+  .actor-card .div {
+    align-self: stretch;
+    height: 2px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .actor-card .rating {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .actor-card .time-year {
+    color: #818181;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  

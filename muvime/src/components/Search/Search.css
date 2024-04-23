@@ -1,0 +1,50 @@
+.search-results {
+  color: #555;
+
+  /* Page Title */
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: -1.2px;
+}
+
+.records {
+  border-radius: 3px;
+  background: rgba(226, 42, 42, 0);
+}
+
+.search-wrap {
+  margin-top: 80px;
+  max-width: 1450px !important;
+  width: 100% !important;
+}
+
+.navigation {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  padding-top: 50px !important;
+  margin: 0 auto !important;
+}
+
+.link {
+  padding: 0;
+  margin: 0;
+}
+
+.search-wrap .col-3 {
+  padding: 0;
+  margin: 0;
+}
+
+.search-results-movies {
+  margin: 0 auto;
+  max-width: 1450px !important;
+  width: 100% !important;
+}
+
+.results {
+  max-width: 1366px !important;
+}

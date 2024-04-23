@@ -1,0 +1,122 @@
+.movie-card {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 150px;
+  cursor: pointer;
+}
+
+.movie-card .image-4 {
+  margin-top: 30px !important;
+  align-self: stretch !important;
+  border-radius: 8px !important;
+  height: 293px !important;
+  min-width: 196px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.movie-card .seperator {
+  align-self: stretch;
+  height: 20px;
+  min-width: 196px;
+  position: relative;
+}
+.movie-card .title {
+  align-self: stretch;
+  color: #545454;
+  position: relative;
+  min-width: 196px !important;
+  width: 100% !important;
+}
+
+.movie-card .div {
+  align-self: stretch;
+  height: 10px;
+  min-width: 196px !important;
+  position: relative;
+}
+
+.movie-card .genre {
+  flex-wrap: wrap !important;
+  align-self: stretch;
+  color: #818181;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  flex-wrap: wrap !important;
+  min-width: 196px !important;
+  width: 100% !important;
+}
+
+.movie-card .seperator-2 {
+  align-self: stretch;
+  height: 5px;
+  min-width: 196px;
+  position: relative;
+}
+
+.movie-card .rating {
+  width: 120px !important;
+  align-items: flex-start;
+  display: flex;
+  gap: 0px;
+}
+
+.movie-card .time-year {
+  margin-top: 0.4px !important;
+  color: #818181;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: -1px;
+  position: relative;
+  max-width: 300px !important;
+  width: 100% !important;
+  padding-right: 0px;
+}
+
+.movie-card .rate {
+  display: flex;
+  height: 16px;
+  margin-right: 2px;
+  min-width: 26px;
+  position: relative;
+  align-items: center !important;
+  justify-content: space-between;
+}
+
+.movie-card .overlap-group {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 16px;
+  position: relative;
+  width: 21px;
+  justify-content: center !important;
+  align-items: center !important;
+  align-self: center !important;
+}
+
+.movie-card .element {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 700;
+  height: 10px;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  align-items: center !important;
+  align-self: center !important;
+  justify-content: center !important;
+}
+
+.pagination-container {
+  margin-top: 50px !important;
+}

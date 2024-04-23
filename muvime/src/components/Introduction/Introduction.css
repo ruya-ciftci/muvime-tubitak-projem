@@ -1,0 +1,44 @@
+.wrap {
+    max-width: 1250px;
+}
+
+.premium {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px; /* 144.444% */
+    border-radius: 3px;
+    background: #02B2E3;
+    border-color: #02B2E3;
+    text-decoration: none;
+    display: inline-flex;
+    padding: 6px 12px;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.premium:hover {
+    background: #015f7a;
+    border-color: #015f7a;
+    text-decoration: none;
+}
+
+.tmdb-advantage {
+    color: #B8B8B8;
+    text-align: center;
+
+    /* body/regular */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+}
+
+.lead {
+    margin-top: 20px;
+}

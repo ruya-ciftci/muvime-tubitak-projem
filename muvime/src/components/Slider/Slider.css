@@ -1,0 +1,50 @@
+.cards {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap !important;
+}
+
+.popular-title {
+    color: #555;
+
+    /* Page Title */
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -1.2px;
+}
+
+.more {
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.40);
+    background: rgba(226, 42, 42, 0.00);
+    display: flex;
+    padding: 6px 12px;
+    align-items: flex-start;
+    gap: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+}
+
+.slider-title {
+    max-width: 1250px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.slider-container {
+    max-width: 1250px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.movie-card-slider {
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 0 !important;
+}

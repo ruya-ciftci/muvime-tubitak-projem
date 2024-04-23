@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "inter";
+  background: #f5f5f5;
+}
+
+.popular {
+  align-items: center;
+  max-width: 1450px;
+}
+
+.col-1 {
+  display: flex;
+  justify-content: center;
+  margin-right: 115px;
+}
+
+.populars {
+  display: flex;
+  color: #555;
+
+/* Page Title */
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+letter-spacing: -1.2px;
+margin-bottom: 30px;
+}
+
+.mores {
+  padding: 0;
+  margin: 0;
+}
+
+.movies {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
